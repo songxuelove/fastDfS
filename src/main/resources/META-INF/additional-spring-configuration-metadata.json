@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "fdfs.retry-after-second",
+      "type": "java.lang.String",
+      "description": "Description for fdfs.retry-after-second."
+    },
+    {
+      "name": "fdfs.retry-after-seconds",
+      "type": "java.lang.String",
+      "description": "Description for fdfs.retry-after-seconds."
+    },
+    {
+      "name": "fdfs.retry-after-seconds",
+      "type": "java.lang.String",
+      "description": "Description for fdfs.retry-after-seconds."
+    }
+  ] }
